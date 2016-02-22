@@ -27,6 +27,10 @@ body {
 	font-family: 'Raleway', sans-serif;
 }
 
+#avatar{
+	width: 20%;
+}
+
 #title{
 	color: rgba(0, 0, 0, 0.7);
 	font-weight: 600;
@@ -47,7 +51,7 @@ text-decoration:none;
 .Navigation a:hover,a:active
 {
 font-weight:bold;
-color: rgba(0, 0, 0, 0.05);
+color: #2554c7;
 }
 .Navigation p {
 	color: grey;
@@ -71,7 +75,7 @@ color: rgba(0, 0, 0, 0.05);
 
 .contentwrapper {
 	z-index: 1;
-	padding-left: 19%;
+	padding-left: 23%;
 	font-family: 'Raleway', sans-serif;
 	font-size: small;
 	color: grey;
